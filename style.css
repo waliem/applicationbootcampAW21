@@ -1,0 +1,24 @@
+body {
+  background-color: #6096AA;
+}
+h1 {
+  color: #F1E5D8;
+  font-family: 'Dosis', sans-serif;
+}
+p {
+  color: #F1E5D8;
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif;
+  }
+.image {
+border-radius: 30px;
+}
+
+a:link {
+  color: #CEC2B8;
+  }
+
+a:hover {
+  color: #7F6F62;
+}
+</style>
